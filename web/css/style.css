@@ -1,0 +1,324 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-size: 28px;
+  background-color: snow;
+  font-family: Helvetica Neue;
+}
+
+.navbar-brand img{
+  width: 200px;
+}
+
+div.login{
+  display: none;
+  float: right;
+  background-color: blue;
+  width: 30%;
+  height: 220px;
+
+}
+
+div.showcase img{
+  width: 100%;
+  display: block;
+  float:left;
+}
+
+div.showcase2 img{
+  width: 100%;
+  display: block;
+  height: auto;
+  float:left;
+}
+
+.Welcome {
+  font-family: Helvetica Neue;
+  bottom: 150px;
+  left: 50px;
+  color: black;
+  font-size: 50px;
+}
+
+div.studying img {
+  width: 100%;
+  display: block;
+}
+
+ /* Exam types */
+#Examtypes {
+  font-family: Helvetica Neue;
+  font-size: 1em;
+  padding-left:5%;
+  float:left;
+}
+
+.examsheading {
+  font-family: Helvetica Neue;
+  font-weight: 100;
+  font-size: 50px;
+  color: grey;
+  float:left;
+}
+
+.digitalexams {
+  font-family: Helvetica Neue;
+  font-weight: 100;
+  font-size: 50px;
+  color: grey;
+}
+
+.firstblock {
+  font-family: Helvetica Neue;
+  font-weight: 100;
+  font-size: 1em;
+  float:left;
+  padding-left: 0;
+}
+
+.Digital {
+  font-family: Helvetica Neue;
+  font-weight: 100;
+  font-size: 1em;
+}
+.WISEFLOW2 {
+  font-weight: bold;
+  font-size: 20px;
+  font-style: italic;
+  text-align: center;
+}
+.Quote {
+  font-size: 60px;
+  padding-top: 200px;
+  padding-bottom: 250px;
+  text-align: center;
+  font-weight: 100;
+}
+
+.rules{
+  padding-top: 5%;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-weight:100;
+  font-size: 1em;
+}
+
+/*end of Exam Types*/
+/*The Advice.html styling starts here*/
+#cover-img {
+  width: 100%;
+  display: block;
+}
+
+#container {
+  box-sizing: border-box;
+}
+
+#main-advices h1 {
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-weight: bold;
+}
+
+/*This is for the li titles in the 5 Study Techniques*/
+.bold-titles {
+  font-weight: bold;
+  font-style: italic;
+  font-family: Helvetica Neue;
+}
+
+#left-container-advice {
+  width: 60%;
+  display: inline-block;
+  float: left;
+  font-size: 0.65em;
+  margin-top: 50px;
+  border-right: 1px solid black;
+  font-family: Helvetica Neue;
+}
+
+#left-container-advice li {
+  padding-bottom: 20px;
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#right-container-advice {
+  width: 35%;
+  display: inline-block;
+  float: right;
+  margin-top: 80px;
+  margin-bottom: 100px;
+  font-size: 1em;
+  padding-top: 200px;
+}
+
+#food-advice {
+  margin: 20px auto;
+  padding: 5px;
+  width: 75%;
+  height: 200px;
+  /*I want to insert a background image with a link inside a rounded box*/
+  /*border: 1px solid black;
+  border-radius: 50px 50px;*/
+  /*background-image: url("img/foods-that-make-you-smarter.png");*/
+}
+
+#food-advice img {
+  width: 350px;
+  height: 200px;
+  border-radius: 5% 5%;
+}
+
+.video-tips {
+  margin-top: 50px;
+}
+
+.video-tips video {
+  margin-left: 25px;
+  padding-top: 5px;
+}
+
+.highlight {
+  background-color: #FFFF00;
+}
+/*The Advice styling ends here*/
+
+/*Schedule Tab Bernardo*/
+/*Lenka*/
+.Table{
+  background-color: darkcyan;
+}
+
+#upperbackground {
+  background-color: darkcyan;
+  color: black;
+  height: 80px;
+  width: 100%;
+}
+.Table {
+  padding-top: 100px;
+  padding-bottom: 200px;
+}
+
+.tg {
+  border-collapse:collapse;
+
+  width: 100%;
+  max-width: 800px;
+  margin: auto;
+}
+
+.tg td{
+  font-family:Helvetica Neue;
+  font-size:14px;
+  padding:10px 5px;
+  border-style:solid;
+  border-width:1px;
+  overflow:hidden;
+  word-break:normal;
+  border-color:black;
+  height: 25px;
+  width: 15%
+}
+
+.tg th{font-family:Helvetica Neue;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-loqm{font-weight:bold;background-color:#656565;color:#ffffff;border-color:#656565;text-align:left;vertical-align:top}
+.tg .tg-tirw{font-weight:bold;background-color:#d8d8d8;color:#333333;border-color:#333333;text-align:center;vertical-align:top}
+.tg .tg-ulos{font-weight:bold;background-color:#d8d8d8;color:#000000;border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-3ya8{font-weight:bold;background-color:#656565;color:#ffffff;border-color:#656565;text-align:center;vertical-align:top}
+.tg .tg-z9n4{font-weight:bold;background-color:#403e3e;color:#000000;border-color:#000000;text-align:center;vertical-align:top}
+
+/*Rules Tab Bernardo*/
+.rules {box-sizing: border-box;border-spacing:5%;width: 50%;margin: auto;}
+.rules > h1 {margin: 10% 30%;}
+.rules > ul {}
+
+/*Front page [Juan] Starts here*/
+section{
+  /*clear: both;*/
+  background-color: snow;
+}
+
+article{
+  background-color: snow;
+}
+
+.welcome {
+  clear: both;
+  padding: 64px;
+  font-size: 1em;
+  text-align: center;
+  background-color: s;
+}
+
+.news {
+  /*margin-top: 100px;*/
+  width: 45%;
+  display: inline-block;
+  float: left;
+  /*border: 1px solid black;
+  border-radius: 50px;*/
+  padding: 15px;
+  margin-left: 80px;
+  font-size: 0.75em;
+  margin-bottom: 40px;
+}
+
+.news li, .faq li {
+  margin-top: 15px;
+}
+
+.news span, .faq span, .rembember-frontpage span{
+  text-align: center;
+  margin-left: 50px;
+  /*background-color: #FFFF00;*/
+}
+
+.faq {
+  margin-top: 30px;
+  /*margin-right: 20px;*/
+  display: inline-block;
+  float: right;
+  width: 45%;
+  /*border: 1px solid black;
+  border-radius: 50px;*/
+  font-size: 0.75em;
+  margin-bottom: 40px;
+}
+
+.remember-frontpage {
+  width: 30%;
+  height: 500px;
+  border: 1px solid black;
+  display: inline-block;
+  float: left;
+  color: pink;
+  font-size: 0.7em;
+}
+
+img#gif-right{
+  float: right;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 150px;
+}
+
+.special-highlight {
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url("../img/yellow-brushstroke.png");
+  background-repeat: no-repeat;
+  background-size: 100% 95%;
+  padding: 8px 0;
+}
+
+.news-head {
+  background-size: 20% 95%;
+}
+
+#no-bullet {
+  list-style-type: none;
+}
+/*Front page ends here*/

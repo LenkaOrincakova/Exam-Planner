@@ -1,0 +1,31 @@
+body{
+  font-size: 1.0em;
+  font-family: Helvetica Neue;
+}
+
+.content_main{
+  clear: both;
+  margin-bottom: 16px;
+}
+
+.content_main div{
+  padding: 0;
+}
+
+.examination {
+  padding: 2% !important;
+  font-family: Helvetica Neue;
+  background-color:darkcyan;
+  font-weight: bold;
+  font-size: 1.4em;
+  text-align: center;
+}
+
+.content_main ul{
+  margin: 5%;
+}
+
+.content_main a{
+  text-decoration: none;
+  margin: 10%;
+}

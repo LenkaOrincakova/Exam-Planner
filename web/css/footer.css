@@ -1,0 +1,37 @@
+.page-footer{
+  background-color: #242729;
+  clear: both;
+}
+
+.footer-content{
+  font-size: 18px;
+  background-color: #242729;
+  color: #7e94a6;
+  padding-top: 16px;
+}
+
+footer a{
+  text-decoration: none;
+  color: #999999;
+}
+
+footer a:hover{
+  color: #EEE
+}
+
+footer ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 16px;
+}
+
+
+
+
+.icons-footer {
+@ -266,6 +296,12 @@ footer a:hover {
+footer a:active {
+  color: black;
+}
+/*Here ends the styling of the footer.*/
